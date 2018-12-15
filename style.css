@@ -1,0 +1,31 @@
+body {
+   background-color: rgba(197, 237, 143, 0.88);
+    font-family: sans-serif;
+    font-size: 15px
+}
+h2 {
+  background-color: antiquewhite;
+}
+ul {
+    
+}
+
+ol {
+    background-color: aquamarine;
+}
+
+p {
+    
+}
+
+.par {
+    background-image: url(https://www.gettyimages.ca/gi-resources/images/Homepage/Hero/UK/CMS_Creative_164657191_Kingfisher.jpg);
+    
+}
+.jumbotron {
+    background-color: #a25235;
+    color: white;
+    background-image: url(https://www.gettyimages.ca/gi-resources/images/Homepage/Hero/UK/CMS_Creative_164657191_Kingfisher.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
